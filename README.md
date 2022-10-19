@@ -3,7 +3,7 @@ Hello, I'm Osman, I'm 24 years old, I'm trying to improve myself in all areas of
 
 🌱 I'm currently learning Javascript<br>
 🙉 My hobbies are: watching movies and listening to music<br>
-💻 Connect with me on <a href="https://linkedin.com/in/osmanbilici)">LinkedIn</a> or bilici.osman.066@gmail.com<br>
+💻 Connect with me on <a href="https://linkedin.com/in/osmanbilici)">LinkedIn</a> or bilici0smann@gmail.com<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/osmanbilici)
