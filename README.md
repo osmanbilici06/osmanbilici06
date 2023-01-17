@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello, I'm Osman, I'm 24 years old, I'm trying to improve myself in all areas of web software, I'm doing projects with libraries such as css scss html javascript, I'm open to learning other languages, I love teamwork, I'm ready to fulfill the given task in the best way.
 
-🌱 I'm currently learning Javascript<br>
+🌱 I'm currently learning React.js<br>
 🙉 My hobbies are: watching movies and listening to music<br>
 💻 Connect with me on <a href="https://linkedin.com/in/osmanbilici)">LinkedIn</a> or bilici0smann@gmail.com<br>
 
