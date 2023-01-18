@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hello, I'm Osman, I'm 24 years old, I'm trying to improve myself in every field of web software. I am working on projects with libraries like css scss html javascript vue. I am open to learning, I am compatible with teamwork<br><br>
+Hello, I'm Osman, I'm 24 years old, I'm trying to improve myself in every field of web software. I am working on projects with libraries like css scss html javascript vue. I am open to learning, I am compatible with teamwork
+
+![198983011-b8ef6346-c4b3-4a83-a5f2-3aefded32189](https://user-images.githubusercontent.com/85305798/213246651-ac312cc7-b599-42c2-94cd-88dfb82b34c3.png)
+
+<br><br>
 
 
 ## 🌐 Socials:
