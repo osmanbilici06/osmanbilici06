@@ -1,5 +1,14 @@
 # 💫 About Me:
 Hello, I'm Osman, I'm 24 years old, I'm trying to improve myself in every field of web software. I am working on projects with libraries like css scss html javascript vue. I am open to learning, I am compatible with teamwork
+
+
+💬 Ask me about react, vue 
+
+📫 Reach me at osmanbcubuk@gmail.com
+
+👨‍💻 All of my projects are available at osmanbilici06
+
+⚡ Fun fact Chai tastes way better than Coffee | Change my mind!
 <br><br>
 
 
