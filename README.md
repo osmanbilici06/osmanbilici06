@@ -1,6 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### Hello, I'm Osman, I'm 24 years old, I'm trying to improve myself in every field of web software. I am working on projects with libraries like css scss html javascript react.js. I am open to learning, I am compatible with teamwork🚀  
