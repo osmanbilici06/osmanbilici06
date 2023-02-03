@@ -1,8 +1,7 @@
 
   
 
-### Hello, I am Osman, I am 24 years old, I am trying to improve myself in frontend and backend areas, I am 
-energetic and hardworking, I am compatible with teamwork.🚀  
+### <h2>Hello, I am Osman, I am 24 years old, I am trying to improve myself in frontend and backend areas, I am energetic and hardworking, I am compatible with teamwork.🚀<h2>
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/osmanbilici06)  
