@@ -1,7 +1,8 @@
 
   
 
-### Hello, I'm Osman, I'm 24 years old, I'm trying to improve myself in every field of web software. I am working on projects with libraries like css scss html javascript react.js. I am open to learning, I am compatible with teamwork🚀  
+### Hello, I am Osman, I am 24 years old, I am trying to improve myself in frontend and backend areas, I am 
+energetic and hardworking, I am compatible with teamwork.🚀  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/osmanbilici06)  
