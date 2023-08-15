@@ -4,7 +4,7 @@
 ### <h2>Hello, I am Osman, I am 24 years old, I am trying to improve myself in frontend and backend areas, I am energetic and hardworking, I am compatible with teamwork.🚀<h2>
   
 
-- 🌱 I’m currently learning Tailwind and React  
+- 🌱 I’m currently learning Tailwind and React native 
   
 
 - ❓ Ask me about anything related to Frontend stack and related technologies  
